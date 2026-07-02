@@ -40,7 +40,7 @@
 # 🔭 Activity
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karale-aryan"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karale-aryan&v=1"/>
 </div>
 
 <picture>
