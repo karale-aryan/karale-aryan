@@ -1,5 +1,6 @@
 name: Generate Snake Animation
 
+# Trigger update for new contributions
 on:
   schedule:
     - cron: "0 0 * * *" # runs once a day
