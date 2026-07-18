@@ -31,16 +31,10 @@
 
 - 🤖 AI: ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-purple?style=flat-circle) ![LLMs](https://img.shields.io/badge/-LLMs-orange?style=flat-circle) ![RAG](https://img.shields.io/badge/-RAG-teal?style=flat-circle) ![AI Agents](https://img.shields.io/badge/-AI%20Agents-red?style=flat-circle)
 
-> Language Usage
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karale-aryan&theme=gruvbox_light&layout=compact"/>
-</div>
-
 # 🔭 Activity
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karale-aryan&v=1"/>
+    <img height="200px" src="https://streak-stats.demolab.com/?user=karale-aryan&v=1"/>
 </div>
 
 <picture>
@@ -48,9 +42,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karale-aryan/karale-aryan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karale-aryan/karale-aryan/output/github-contribution-grid-snake.svg">
 </picture>
-
-# 🌱 Trophies
-
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=karale-aryan&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
